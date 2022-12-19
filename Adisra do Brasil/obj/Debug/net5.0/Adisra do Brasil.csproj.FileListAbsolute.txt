@@ -1,0 +1,32 @@
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.exe
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.deps.json
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.runtimeconfig.json
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.pdb
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\refint\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.pdb
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\Adisra do Brasil\Adisra do Brasil\obj\Debug\net5.0\ref\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.exe
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.deps.json
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.runtimeconfig.json
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\bin\Debug\net5.0\Adisra do Brasil.pdb
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\refint\Adisra do Brasil.dll
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.pdb
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\Adisra do Brasil.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\2\Adisra do Brasil\obj\Debug\net5.0\ref\Adisra do Brasil.dll

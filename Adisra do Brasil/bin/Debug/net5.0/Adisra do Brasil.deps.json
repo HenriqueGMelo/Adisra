@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Adisra do Brasil/1.0.0": {
+        "runtime": {
+          "Adisra do Brasil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adisra do Brasil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

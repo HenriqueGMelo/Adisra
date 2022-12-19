@@ -1,0 +1,16 @@
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.exe
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.deps.json
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.runtimeconfig.json
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.dll
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\bin\Debug\net5.0\AdisraDoBrasil3.pdb
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.dll
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\refint\AdisraDoBrasil3.dll
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.pdb
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\AdisraDoBrasil3.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\2\AdisraDoBrasil3\obj\Debug\net5.0\ref\AdisraDoBrasil3.dll
